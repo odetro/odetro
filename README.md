@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### You're welcome to check my first online project: https://odelia-todo-app.herokuapp.com/
+### You're welcome to check out my first online project: https://odelia-todo-app.herokuapp.com/
 
 <!--
 **odetro/odetro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
